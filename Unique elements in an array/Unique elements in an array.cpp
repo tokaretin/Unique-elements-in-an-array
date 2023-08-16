@@ -14,7 +14,7 @@ int main() {
             {
                 if (vec[j] == vec[i])
                 {
-                    vec[i] = -1;
+                    vec[j] = -1;
                 }
             }
         }
